@@ -5,7 +5,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 	box-sizing: border-box;
 }
 
-html {
+/* html {
 	background: #000;
 }
 
@@ -19,7 +19,7 @@ body {
 	background-color: var(--color-bg);
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-}
+} */
 
 /* Fade effect */
 .js body {
@@ -31,7 +31,7 @@ body {
 	opacity: 1;
 }
 
-a {
+/* a {
 	text-decoration: none;
 	color: var(--color-link);
 	outline: none;
@@ -59,10 +59,10 @@ a:focus {
 	text-align: center;
 	color: var(--color-bg);
 	background: var(--color-text);
-}
+} */
 
 /* Icons */
-.icon {
+/* .icon {
 	display: block;
 	width: 1.5em;
 	height: 1.5em;
@@ -72,7 +72,7 @@ a:focus {
 
 .icon--keyboard {
 	display: none;
-}
+} */
 
 main {
 	position: relative;
@@ -114,7 +114,7 @@ main {
 }
 
 /* Header */
-.codrops-header {
+/* .codrops-header {
 	position: relative;
 	z-index: 100;
 	display: flex;
@@ -143,7 +143,7 @@ main {
 	align-self: end;
 	grid-area: github;
 	justify-self: start;
-}
+} */
 
 .demos {
 	position: relative;
