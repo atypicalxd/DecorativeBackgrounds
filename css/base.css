@@ -143,7 +143,7 @@ main {
 	align-self: end;
 	grid-area: github;
 	justify-self: start;
-} */
+} 
 
 .demos {
 	position: relative;
@@ -176,9 +176,9 @@ a.demo--current {
 	pointer-events: none;
 	color: var(--color-link-hover);
 }
-
+*/
 /* Top Navigation Style */
-.codrops-links {
+/* .codrops-links {
 	position: relative;
 	display: flex;
 	justify-content: center;
@@ -191,7 +191,7 @@ a.demo--current {
 	display: inline-block;
 	margin: 0.15em;
 	padding: 0.25em;
-}
+} */
 
 /* Canvas positions */
 .content__inner {
