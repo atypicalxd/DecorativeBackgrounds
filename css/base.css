@@ -196,7 +196,7 @@ a.demo--current {
 /* Canvas positions */
 .content__inner {
 	grid-area: 1 / 1 / 1 / 1;
-	position: relative;
+	position: absolute;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
