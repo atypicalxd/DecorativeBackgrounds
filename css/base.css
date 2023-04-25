@@ -74,7 +74,7 @@ a:focus {
 	display: none;
 } */
 
-main {
+/* main {
 	position: relative;
 	width: 100%;
 }
@@ -111,7 +111,7 @@ main {
 
 .content--fixed a {
 	pointer-events: auto;
-}
+} */
 
 /* Header */
 /* .codrops-header {
