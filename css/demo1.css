@@ -10,10 +10,10 @@
 }
 
 .content__title {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Inter', sans-serif;
 	font-size: 10vw;
 	font-weight: normal;
-	color: var(--color-title);
+	color: #fff;
 	text-align: center;
 	margin: 0;
 	pointer-events: none;
@@ -21,8 +21,8 @@
 
 .content__subtitle {
 	font-size: 1.25em;
-	background: var(--color-subtitle-bg);
-	color: var(--color-subtitle);
+	background: #EF9D85;
+	color: #fff;
 	padding: 0.45em 0.5em;
 	line-height: 1;
 	margin: 0;
