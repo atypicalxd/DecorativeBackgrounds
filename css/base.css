@@ -205,8 +205,8 @@ a.demo--current {
 }
 
 .scene {
-/* 	position: absolute; */
-	posistion: relative;
+	position: absolute;
+/* 	posistion: relative; */
 }
 
 .scene--left {
