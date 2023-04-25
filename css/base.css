@@ -85,7 +85,7 @@ main {
 	justify-content: center;
 	align-items: center;
 	align-content: center;
-	margin: 0 auto;
+/* 	margin: 0 auto; */
 	min-height: 100vh;
 }
 
@@ -205,7 +205,7 @@ a.demo--current {
 }
 
 .scene {
-	position: absolute;
+/* 	position: absolute; */
 /* 	posistion: relative; */
 }
 
